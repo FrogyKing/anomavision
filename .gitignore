@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Testing & type checking caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Local MLflow & DVC caches
+mlruns/
+mlartifacts/
+artifacts/mlflow.db
+.dvc/cache/
+.dvc/tmp/
+
+# Heavyweight local bundle binaries (canonical copies reside in Modal Volume anomavision-data)
+artifacts/bundles/**/*.npz
+artifacts/bundles/**/*.faiss
+artifacts/bundles/**/reference_thumbnails/
+artifacts/bundles/**/examples/
+artifacts/bundles/**/plots/
+
+# Local heavy data, checkpoints, and temporary caches (stored in Modal Volume anomavision-data)
+data/raw/
+data/cache/
+checkpoints/
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.tar.xz
+*.tar.gz
+*.zip
+
+# Secrets & environment variables
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Terraform state
+infra/terraform/.terraform/
+infra/terraform/*.tfstate
+infra/terraform/*.tfstate.*
+infra/terraform/*.tfvars
