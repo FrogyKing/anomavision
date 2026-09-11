@@ -1,0 +1,66 @@
+backbone:
+  model_id: affineisallyouneed/dinov3-vits16-pretrain-lvd1689m
+  revision: 1c33e2c713df1be43909a792e3ce324109412c21
+  patch_size: 16
+  hidden_size: 384
+  num_register_tokens: 4
+  image_size: 448
+  extract_layers:
+  - 6
+  - 9
+  - 12
+  layer_aggregation: mean
+  neighborhood_kernel: 3
+  l2_normalize: true
+  batch_size: 16
+  amp_dtype: bfloat16
+  image_mean:
+  - 0.485
+  - 0.456
+  - 0.406
+  image_std:
+  - 0.229
+  - 0.224
+  - 0.225
+sam:
+  enabled: true
+  primary_model_id: tkclam/sam3
+  primary_revision: 4c7c7aa68a625b356934f4ed90597de58b74f3cf
+  primary_weights_sha256: 6d06f0a5f84e435071fe6603e61d0b4cc7b40e0d39d487cfd4d67d8cc11cc14a
+  optional_sam31_model_id: AEmotionStudio/sam3.1
+  optional_sam31_revision: 694239a1479aab8fd1317c87c433c58acd7c6eab
+  adapter_variant: sam3
+  score_threshold: 0.35
+  mask_dilation_px: 5
+  background_suppression_factor: 0.15
+dataset:
+  hf_dataset_id: foersben/mvtec-ad
+  hf_revision: c75b39616f84db43677bcc8228caaafaf5096d7f
+  official_source_url: https://www.mvtec.com/company/research/datasets/mvtec-ad
+  license_id: CC-BY-NC-SA-4.0
+  categories:
+  - bottle
+  - metal_nut
+  calibration_fraction: 0.15
+  seed: 42
+coreset:
+  coreset_ratio: 0.1
+  max_coreset_size: 15000
+  projection_dim: 128
+  metric: cosine
+  n_neighbors: 9
+  score_top_k_patches: 5
+  gaussian_sigma: 4.0
+  seed: 42
+modal:
+  app_name: anomavision-pipeline
+  volume_name: anomavision-data
+  mount_path: /data
+  hf_secret_name: huggingface
+  gpu_type: L4
+  gpu_hourly_rate_usd: 0.8
+  cpu_hourly_rate_usd: 0.15
+  budget_max_usd: 30.0
+  budget_target_usd: 15.0
+  timeout_seconds: 1800
+artifacts_dir: artifacts

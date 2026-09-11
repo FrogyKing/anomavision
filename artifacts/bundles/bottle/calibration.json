@@ -1,0 +1,14 @@
+{
+  "category": "bottle",
+  "method": "unsupervised_quantile",
+  "is_purely_unsupervised": true,
+  "quantile_alpha": 0.98,
+  "image_threshold": 0.042406148463487614,
+  "pixel_threshold": 0.011789287763665557,
+  "cal_score_mean": 0.024195878736434445,
+  "cal_score_std": 0.006199147375011393,
+  "cal_score_min": 0.017278047278523445,
+  "cal_score_max": 0.04744702950119972,
+  "reference_centroid_norm": 0.8526574373245239,
+  "reference_mmd_baseline": 0.005302421508296844
+}

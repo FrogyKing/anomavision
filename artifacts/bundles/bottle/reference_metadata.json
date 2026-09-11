@@ -1,0 +1,892 @@
+[
+  {
+    "sample_id": "bottle/train/good/000",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/000.png"
+  },
+  {
+    "sample_id": "bottle/train/good/001",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/001.png"
+  },
+  {
+    "sample_id": "bottle/train/good/004",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/004.png"
+  },
+  {
+    "sample_id": "bottle/train/good/006",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/006.png"
+  },
+  {
+    "sample_id": "bottle/train/good/007",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/007.png"
+  },
+  {
+    "sample_id": "bottle/train/good/008",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/008.png"
+  },
+  {
+    "sample_id": "bottle/train/good/009",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/009.png"
+  },
+  {
+    "sample_id": "bottle/train/good/010",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/010.png"
+  },
+  {
+    "sample_id": "bottle/train/good/011",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/011.png"
+  },
+  {
+    "sample_id": "bottle/train/good/012",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/012.png"
+  },
+  {
+    "sample_id": "bottle/train/good/014",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/014.png"
+  },
+  {
+    "sample_id": "bottle/train/good/016",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/016.png"
+  },
+  {
+    "sample_id": "bottle/train/good/017",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/017.png"
+  },
+  {
+    "sample_id": "bottle/train/good/018",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/018.png"
+  },
+  {
+    "sample_id": "bottle/train/good/019",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/019.png"
+  },
+  {
+    "sample_id": "bottle/train/good/020",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/020.png"
+  },
+  {
+    "sample_id": "bottle/train/good/022",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/022.png"
+  },
+  {
+    "sample_id": "bottle/train/good/023",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/023.png"
+  },
+  {
+    "sample_id": "bottle/train/good/024",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/024.png"
+  },
+  {
+    "sample_id": "bottle/train/good/025",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/025.png"
+  },
+  {
+    "sample_id": "bottle/train/good/026",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/026.png"
+  },
+  {
+    "sample_id": "bottle/train/good/027",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/027.png"
+  },
+  {
+    "sample_id": "bottle/train/good/028",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/028.png"
+  },
+  {
+    "sample_id": "bottle/train/good/029",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/029.png"
+  },
+  {
+    "sample_id": "bottle/train/good/031",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/031.png"
+  },
+  {
+    "sample_id": "bottle/train/good/032",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/032.png"
+  },
+  {
+    "sample_id": "bottle/train/good/033",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/033.png"
+  },
+  {
+    "sample_id": "bottle/train/good/034",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/034.png"
+  },
+  {
+    "sample_id": "bottle/train/good/035",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/035.png"
+  },
+  {
+    "sample_id": "bottle/train/good/038",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/038.png"
+  },
+  {
+    "sample_id": "bottle/train/good/039",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/039.png"
+  },
+  {
+    "sample_id": "bottle/train/good/040",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/040.png"
+  },
+  {
+    "sample_id": "bottle/train/good/041",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/041.png"
+  },
+  {
+    "sample_id": "bottle/train/good/043",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/043.png"
+  },
+  {
+    "sample_id": "bottle/train/good/046",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/046.png"
+  },
+  {
+    "sample_id": "bottle/train/good/047",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/047.png"
+  },
+  {
+    "sample_id": "bottle/train/good/048",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/048.png"
+  },
+  {
+    "sample_id": "bottle/train/good/049",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/049.png"
+  },
+  {
+    "sample_id": "bottle/train/good/050",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/050.png"
+  },
+  {
+    "sample_id": "bottle/train/good/051",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/051.png"
+  },
+  {
+    "sample_id": "bottle/train/good/052",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/052.png"
+  },
+  {
+    "sample_id": "bottle/train/good/053",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/053.png"
+  },
+  {
+    "sample_id": "bottle/train/good/054",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/054.png"
+  },
+  {
+    "sample_id": "bottle/train/good/055",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/055.png"
+  },
+  {
+    "sample_id": "bottle/train/good/056",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/056.png"
+  },
+  {
+    "sample_id": "bottle/train/good/057",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/057.png"
+  },
+  {
+    "sample_id": "bottle/train/good/058",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/058.png"
+  },
+  {
+    "sample_id": "bottle/train/good/059",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/059.png"
+  },
+  {
+    "sample_id": "bottle/train/good/060",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/060.png"
+  },
+  {
+    "sample_id": "bottle/train/good/062",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/062.png"
+  },
+  {
+    "sample_id": "bottle/train/good/063",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/063.png"
+  },
+  {
+    "sample_id": "bottle/train/good/065",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/065.png"
+  },
+  {
+    "sample_id": "bottle/train/good/066",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/066.png"
+  },
+  {
+    "sample_id": "bottle/train/good/067",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/067.png"
+  },
+  {
+    "sample_id": "bottle/train/good/068",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/068.png"
+  },
+  {
+    "sample_id": "bottle/train/good/069",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/069.png"
+  },
+  {
+    "sample_id": "bottle/train/good/070",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/070.png"
+  },
+  {
+    "sample_id": "bottle/train/good/071",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/071.png"
+  },
+  {
+    "sample_id": "bottle/train/good/072",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/072.png"
+  },
+  {
+    "sample_id": "bottle/train/good/074",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/074.png"
+  },
+  {
+    "sample_id": "bottle/train/good/075",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/075.png"
+  },
+  {
+    "sample_id": "bottle/train/good/076",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/076.png"
+  },
+  {
+    "sample_id": "bottle/train/good/077",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/077.png"
+  },
+  {
+    "sample_id": "bottle/train/good/078",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/078.png"
+  },
+  {
+    "sample_id": "bottle/train/good/079",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/079.png"
+  },
+  {
+    "sample_id": "bottle/train/good/081",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/081.png"
+  },
+  {
+    "sample_id": "bottle/train/good/082",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/082.png"
+  },
+  {
+    "sample_id": "bottle/train/good/083",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/083.png"
+  },
+  {
+    "sample_id": "bottle/train/good/084",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/084.png"
+  },
+  {
+    "sample_id": "bottle/train/good/086",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/086.png"
+  },
+  {
+    "sample_id": "bottle/train/good/087",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/087.png"
+  },
+  {
+    "sample_id": "bottle/train/good/088",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/088.png"
+  },
+  {
+    "sample_id": "bottle/train/good/089",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/089.png"
+  },
+  {
+    "sample_id": "bottle/train/good/090",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/090.png"
+  },
+  {
+    "sample_id": "bottle/train/good/091",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/091.png"
+  },
+  {
+    "sample_id": "bottle/train/good/092",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/092.png"
+  },
+  {
+    "sample_id": "bottle/train/good/093",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/093.png"
+  },
+  {
+    "sample_id": "bottle/train/good/094",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/094.png"
+  },
+  {
+    "sample_id": "bottle/train/good/095",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/095.png"
+  },
+  {
+    "sample_id": "bottle/train/good/096",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/096.png"
+  },
+  {
+    "sample_id": "bottle/train/good/097",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/097.png"
+  },
+  {
+    "sample_id": "bottle/train/good/098",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/098.png"
+  },
+  {
+    "sample_id": "bottle/train/good/099",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/099.png"
+  },
+  {
+    "sample_id": "bottle/train/good/101",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/101.png"
+  },
+  {
+    "sample_id": "bottle/train/good/102",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/102.png"
+  },
+  {
+    "sample_id": "bottle/train/good/103",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/103.png"
+  },
+  {
+    "sample_id": "bottle/train/good/105",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/105.png"
+  },
+  {
+    "sample_id": "bottle/train/good/106",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/106.png"
+  },
+  {
+    "sample_id": "bottle/train/good/107",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/107.png"
+  },
+  {
+    "sample_id": "bottle/train/good/108",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/108.png"
+  },
+  {
+    "sample_id": "bottle/train/good/109",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/109.png"
+  },
+  {
+    "sample_id": "bottle/train/good/110",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/110.png"
+  },
+  {
+    "sample_id": "bottle/train/good/112",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/112.png"
+  },
+  {
+    "sample_id": "bottle/train/good/113",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/113.png"
+  },
+  {
+    "sample_id": "bottle/train/good/114",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/114.png"
+  },
+  {
+    "sample_id": "bottle/train/good/115",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/115.png"
+  },
+  {
+    "sample_id": "bottle/train/good/116",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/116.png"
+  },
+  {
+    "sample_id": "bottle/train/good/117",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/117.png"
+  },
+  {
+    "sample_id": "bottle/train/good/118",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/118.png"
+  },
+  {
+    "sample_id": "bottle/train/good/119",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/119.png"
+  },
+  {
+    "sample_id": "bottle/train/good/120",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/120.png"
+  },
+  {
+    "sample_id": "bottle/train/good/121",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/121.png"
+  },
+  {
+    "sample_id": "bottle/train/good/122",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/122.png"
+  },
+  {
+    "sample_id": "bottle/train/good/123",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/123.png"
+  },
+  {
+    "sample_id": "bottle/train/good/124",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/124.png"
+  },
+  {
+    "sample_id": "bottle/train/good/125",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/125.png"
+  },
+  {
+    "sample_id": "bottle/train/good/126",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/126.png"
+  },
+  {
+    "sample_id": "bottle/train/good/127",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/127.png"
+  },
+  {
+    "sample_id": "bottle/train/good/128",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/128.png"
+  },
+  {
+    "sample_id": "bottle/train/good/129",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/129.png"
+  },
+  {
+    "sample_id": "bottle/train/good/130",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/130.png"
+  },
+  {
+    "sample_id": "bottle/train/good/131",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/131.png"
+  },
+  {
+    "sample_id": "bottle/train/good/132",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/132.png"
+  },
+  {
+    "sample_id": "bottle/train/good/133",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/133.png"
+  },
+  {
+    "sample_id": "bottle/train/good/134",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/134.png"
+  },
+  {
+    "sample_id": "bottle/train/good/135",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/135.png"
+  },
+  {
+    "sample_id": "bottle/train/good/136",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/136.png"
+  },
+  {
+    "sample_id": "bottle/train/good/137",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/137.png"
+  },
+  {
+    "sample_id": "bottle/train/good/138",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/138.png"
+  },
+  {
+    "sample_id": "bottle/train/good/139",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/139.png"
+  },
+  {
+    "sample_id": "bottle/train/good/141",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/141.png"
+  },
+  {
+    "sample_id": "bottle/train/good/142",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/142.png"
+  },
+  {
+    "sample_id": "bottle/train/good/143",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/143.png"
+  },
+  {
+    "sample_id": "bottle/train/good/144",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/144.png"
+  },
+  {
+    "sample_id": "bottle/train/good/145",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/145.png"
+  },
+  {
+    "sample_id": "bottle/train/good/146",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/146.png"
+  },
+  {
+    "sample_id": "bottle/train/good/147",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/147.png"
+  },
+  {
+    "sample_id": "bottle/train/good/148",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/148.png"
+  },
+  {
+    "sample_id": "bottle/train/good/149",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/149.png"
+  },
+  {
+    "sample_id": "bottle/train/good/150",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/150.png"
+  },
+  {
+    "sample_id": "bottle/train/good/151",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/151.png"
+  },
+  {
+    "sample_id": "bottle/train/good/153",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/153.png"
+  },
+  {
+    "sample_id": "bottle/train/good/154",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/154.png"
+  },
+  {
+    "sample_id": "bottle/train/good/155",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/155.png"
+  },
+  {
+    "sample_id": "bottle/train/good/156",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/156.png"
+  },
+  {
+    "sample_id": "bottle/train/good/157",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/157.png"
+  },
+  {
+    "sample_id": "bottle/train/good/158",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/158.png"
+  },
+  {
+    "sample_id": "bottle/train/good/159",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/159.png"
+  },
+  {
+    "sample_id": "bottle/train/good/160",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/160.png"
+  },
+  {
+    "sample_id": "bottle/train/good/161",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/161.png"
+  },
+  {
+    "sample_id": "bottle/train/good/162",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/162.png"
+  },
+  {
+    "sample_id": "bottle/train/good/163",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/163.png"
+  },
+  {
+    "sample_id": "bottle/train/good/164",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/164.png"
+  },
+  {
+    "sample_id": "bottle/train/good/165",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/165.png"
+  },
+  {
+    "sample_id": "bottle/train/good/166",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/166.png"
+  },
+  {
+    "sample_id": "bottle/train/good/170",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/170.png"
+  },
+  {
+    "sample_id": "bottle/train/good/171",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/171.png"
+  },
+  {
+    "sample_id": "bottle/train/good/172",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/172.png"
+  },
+  {
+    "sample_id": "bottle/train/good/173",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/173.png"
+  },
+  {
+    "sample_id": "bottle/train/good/174",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/174.png"
+  },
+  {
+    "sample_id": "bottle/train/good/175",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/175.png"
+  },
+  {
+    "sample_id": "bottle/train/good/176",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/176.png"
+  },
+  {
+    "sample_id": "bottle/train/good/177",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/177.png"
+  },
+  {
+    "sample_id": "bottle/train/good/178",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/178.png"
+  },
+  {
+    "sample_id": "bottle/train/good/179",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/179.png"
+  },
+  {
+    "sample_id": "bottle/train/good/180",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/180.png"
+  },
+  {
+    "sample_id": "bottle/train/good/181",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/181.png"
+  },
+  {
+    "sample_id": "bottle/train/good/183",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/183.png"
+  },
+  {
+    "sample_id": "bottle/train/good/184",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/184.png"
+  },
+  {
+    "sample_id": "bottle/train/good/185",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/185.png"
+  },
+  {
+    "sample_id": "bottle/train/good/186",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/186.png"
+  },
+  {
+    "sample_id": "bottle/train/good/188",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/188.png"
+  },
+  {
+    "sample_id": "bottle/train/good/189",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/189.png"
+  },
+  {
+    "sample_id": "bottle/train/good/190",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/190.png"
+  },
+  {
+    "sample_id": "bottle/train/good/191",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/191.png"
+  },
+  {
+    "sample_id": "bottle/train/good/192",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/192.png"
+  },
+  {
+    "sample_id": "bottle/train/good/193",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/193.png"
+  },
+  {
+    "sample_id": "bottle/train/good/194",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/194.png"
+  },
+  {
+    "sample_id": "bottle/train/good/196",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/196.png"
+  },
+  {
+    "sample_id": "bottle/train/good/197",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/197.png"
+  },
+  {
+    "sample_id": "bottle/train/good/198",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/198.png"
+  },
+  {
+    "sample_id": "bottle/train/good/199",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/199.png"
+  },
+  {
+    "sample_id": "bottle/train/good/200",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/200.png"
+  },
+  {
+    "sample_id": "bottle/train/good/202",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/202.png"
+  },
+  {
+    "sample_id": "bottle/train/good/203",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/203.png"
+  },
+  {
+    "sample_id": "bottle/train/good/205",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/205.png"
+  },
+  {
+    "sample_id": "bottle/train/good/206",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/206.png"
+  },
+  {
+    "sample_id": "bottle/train/good/207",
+    "category": "bottle",
+    "image_relpath": "bottle/train/good/207.png"
+  }
+]
