@@ -1,0 +1,43 @@
+{
+  "category": "metal_nut",
+  "config_fingerprint": "9925aa8c51239548",
+  "backbone_model_id": "affineisallyouneed/dinov3-vits16-pretrain-lvd1689m",
+  "backbone_revision": "1c33e2c713df1be43909a792e3ce324109412c21",
+  "sam_variant": "sam3",
+  "image_auroc": {
+    "value": 0.9995112414467253,
+    "ci_lower": 0.997067448680352,
+    "ci_upper": 1.0,
+    "std_error": 0.0007541751919364937
+  },
+  "pixel_auroc": {
+    "value": 0.9598362909625701,
+    "ci_lower": 0.9478008930328623,
+    "ci_upper": 0.9733784815580876,
+    "std_error": 0.007966356962159383
+  },
+  "aupro": 0.9022204024543015,
+  "precision_at_threshold": 1.0,
+  "recall_at_threshold": 0.989247311827957,
+  "f1_at_threshold": 0.9945945945945946,
+  "f1_oracle_upper_bound": 0.9946524064171123,
+  "threshold_used": 0.09098918192301639,
+  "threshold_procedure": "unsupervised_calibration_quantile_0.98_plus_gaussian_tail",
+  "baseline_image_auroc": 0.990713587487781,
+  "baseline_pixel_auroc": 0.9208148156311962,
+  "baseline_name": "GlobalCentroidMahalanobis+SpatialTemplate",
+  "memory_bank_patches": 14661,
+  "total_train_patches": 14661,
+  "coreset_ratio_actual": 0.1,
+  "memory_bank_size_mb": 21.4761,
+  "inference_latency_ms_mean": 55.52,
+  "inference_latency_ms_p95": 56.91,
+  "retrieval_latency_ms_mean": 26.727,
+  "peak_gpu_memory_mb": 2138.08,
+  "per_defect_auroc": {
+    "bent": 1.0,
+    "color": 0.9979338842975207,
+    "flip": 1.0,
+    "scratch": 1.0
+  }
+}

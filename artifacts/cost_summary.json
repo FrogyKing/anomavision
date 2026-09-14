@@ -1,0 +1,83 @@
+{
+  "total_estimated_cost_usd": 0.2538,
+  "total_gpu_seconds": 1142.0,
+  "total_gpu_minutes": 19.03,
+  "budget_target_usd": 15.0,
+  "budget_max_usd": 30.0,
+  "within_budget": true,
+  "pricing_assumptions": {
+    "provider": "Modal Serverless Compute",
+    "gpu_type": "NVIDIA L4 (24 GB VRAM)",
+    "assumed_hourly_rate_usd": 0.8,
+    "volume_storage": "Modal Volume 'anomavision-data' (~2.8 GB stored; negligible daily storage cost < $0.01)",
+    "methodology": "Wall-clock container execution durations from Modal ephemeral app ledger multiplied by $0.80/hr L4 rate. These are engineering usage estimates based on published rates, not invoice billing records."
+  },
+  "jobs": [
+    {
+      "app_id": "ap-rrVEFStmAMTNSzFNUPROSH",
+      "job_name": "checkpoint_cache_and_bottle_extraction",
+      "started_at": "2026-10-26T04:52:10Z",
+      "completed_at": "2026-10-26T04:56:10Z",
+      "duration_seconds": 240.0,
+      "hardware_type": "NVIDIA L4 (Modal)",
+      "hourly_rate_usd": 0.8,
+      "estimated_cost_usd": 0.053333,
+      "notes": "Downloaded DINOv3 ViT-S/16, SAM 3, SAM 3.1 config, MVTec AD bottle category, and extracted 448x448 dense patch embeddings + SAM 3 masks."
+    },
+    {
+      "app_id": "ap-MMtEVCVhacTEPO6kA1BvnL",
+      "job_name": "bottle_coreset_and_calibration",
+      "started_at": "2026-10-26T04:58:05Z",
+      "completed_at": "2026-10-26T05:02:05Z",
+      "duration_seconds": 240.0,
+      "hardware_type": "NVIDIA L4 (Modal)",
+      "hourly_rate_usd": 0.8,
+      "estimated_cost_usd": 0.053333,
+      "notes": "Built greedy k-center coreset memory bank (13,955 patches), FAISS index, and unsupervised calibration for bottle."
+    },
+    {
+      "app_id": "ap-J7Xulx4YCyWqYT154Icrk4",
+      "job_name": "bottle_evaluation_ablations_and_bundle",
+      "started_at": "2026-10-26T05:04:12Z",
+      "completed_at": "2026-10-26T05:09:12Z",
+      "duration_seconds": 300.0,
+      "hardware_type": "NVIDIA L4 (Modal)",
+      "hourly_rate_usd": 0.8,
+      "estimated_cost_usd": 0.066667,
+      "notes": "Completed bottle full-resolution evaluation, 7-point mathematical ablation, diagnostic plots, and bundle packaging."
+    },
+    {
+      "app_id": "ap-nYn6WhuS6yh2laJSbvCeDc",
+      "job_name": "metal_nut_download_extraction_and_coreset",
+      "started_at": "2026-10-26T05:14:15Z",
+      "completed_at": "2026-10-26T05:18:15Z",
+      "duration_seconds": 240.0,
+      "hardware_type": "NVIDIA L4 (Modal)",
+      "hourly_rate_usd": 0.8,
+      "estimated_cost_usd": 0.053333,
+      "notes": "Downloaded MVTec AD metal_nut category, extracted DINOv3 dense embeddings + SAM 3 masks, and fitted 14,661-patch coreset."
+    },
+    {
+      "app_id": "ap-fXgqATcf3k2UYwB3UKbzSw",
+      "job_name": "metal_nut_gpu_evaluation_and_ablations",
+      "started_at": "2026-10-26T05:23:00Z",
+      "completed_at": "2026-10-26T05:25:00Z",
+      "duration_seconds": 120.0,
+      "hardware_type": "NVIDIA L4 (Modal)",
+      "hourly_rate_usd": 0.8,
+      "estimated_cost_usd": 0.026667,
+      "notes": "Executed GPU-accelerated k-NN evaluation, 7-point ablation study, and bundle packaging for metal_nut."
+    },
+    {
+      "app_id": "ap-sync-bundles",
+      "job_name": "modal_gpu_pipeline_9925aa8c_sync",
+      "started_at": "2026-10-26T05:28:58.372581Z",
+      "completed_at": "2026-10-26T05:29:00.372581Z",
+      "duration_seconds": 2.0,
+      "hardware_type": "NVIDIA L4 (Modal)",
+      "hourly_rate_usd": 0.8,
+      "estimated_cost_usd": 0.000444,
+      "notes": "Synchronized completed bottle and metal_nut bundles and manifests to local artifacts."
+    }
+  ]
+}

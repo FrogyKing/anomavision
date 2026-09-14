@@ -1,0 +1,13 @@
+stages:
+  run_modal_pipeline:
+    cmd: uv run anomavision run-pipeline --config configs/default.yaml
+    deps:
+    - configs/default.yaml
+    - src/anomavision/models/dinov3.py
+    - src/anomavision/models/sam.py
+    - src/anomavision/core/coreset.py
+    - src/anomavision/core/detector.py
+    - src/anomavision/pipeline/stages.py
+    outs:
+    - artifacts/evaluation_summary.json
+    - artifacts/artifact_lineage_manifest.json

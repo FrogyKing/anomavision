@@ -1,0 +1,22 @@
+[
+  {
+    "job_name": "modal_gpu_pipeline_9925aa8c",
+    "started_at": "2026-10-26T05:12:40.834134Z",
+    "completed_at": "2026-10-26T05:12:42.446728Z",
+    "duration_seconds": 1.613,
+    "hardware_type": "NVIDIA L4 (Modal)",
+    "hourly_rate_usd": 0.8,
+    "estimated_cost_usd": 0.000358,
+    "notes": "Estimated from wall-clock container execution duration and published Modal GPU pricing."
+  },
+  {
+    "job_name": "modal_gpu_pipeline_9925aa8c",
+    "started_at": "2026-10-26T05:28:58.372581Z",
+    "completed_at": "2026-10-26T05:28:58.762982Z",
+    "duration_seconds": 0.39,
+    "hardware_type": "NVIDIA L4 (Modal)",
+    "hourly_rate_usd": 0.8,
+    "estimated_cost_usd": 8.7e-05,
+    "notes": "Estimated from wall-clock container execution duration and published Modal GPU pricing."
+  }
+]

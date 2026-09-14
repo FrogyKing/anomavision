@@ -1,0 +1,14 @@
+{
+  "category": "metal_nut",
+  "method": "unsupervised_quantile",
+  "is_purely_unsupervised": true,
+  "quantile_alpha": 0.98,
+  "image_threshold": 0.09098918192301639,
+  "pixel_threshold": 0.036620505247265116,
+  "cal_score_mean": 0.06275727599859238,
+  "cal_score_std": 0.011292762369769603,
+  "cal_score_min": 0.04742053151130676,
+  "cal_score_max": 0.09332111477851868,
+  "reference_centroid_norm": 0.8470768928527832,
+  "reference_mmd_baseline": 0.00840541088219845
+}
